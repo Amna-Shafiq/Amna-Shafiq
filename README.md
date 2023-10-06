@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on a note taking app using python and javacript
+
 💬 Ask me about anything (within reason)
+
 📫 How to reach me: amna.shafiq.r@gmail.com
 <!--
 **Amna-Shafiq/Amna-Shafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
