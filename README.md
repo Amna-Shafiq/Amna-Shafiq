@@ -3,7 +3,7 @@
 
 💬 Ask me about anything (within reason)
 
-📫 How to reach me: amna.shafiq.r@gmail.com
+📫 How to reach me: amna.shafiq.r@gmail.com || https://www.linkedin.com/in/amna-shafiq/
 <!--
 **Amna-Shafiq/Amna-Shafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
