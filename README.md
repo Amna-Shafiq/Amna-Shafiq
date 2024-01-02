@@ -1,6 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working on a note taking app using python and javacript
-
 💬 Ask me about anything (within reason)
 
 📫 How to reach me: amna.shafiq.r@gmail.com || https://www.linkedin.com/in/amna-shafiq/
